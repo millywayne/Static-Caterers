@@ -1,5 +1,5 @@
 # Static-Caterers
-#### {This is my portfolio}, {&copy2020 static caterers)
+#### {This is a business website}, {&copy2020 static caterers)
 #### By **{Milllicent Achieng Odhiambo}**
 ## Description
 *{A catering business website.}
